@@ -3,4 +3,9 @@ h1{
 }
 p{
   color: aquamarine;
+  font-size: 55px;
+  font-style: italic;
+}
+.row{
+  grid-template-columns: 1fr 1fr;
 }
